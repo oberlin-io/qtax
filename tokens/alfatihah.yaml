@@ -1,0 +1,34 @@
+ismullah:
+  denotations:
+  - the name of God
+  ayyat:
+  - s001a001
+allah:
+  denotations:
+  - God
+  ayyat:
+  - s001a001
+  - s001a002
+arrahman:
+  denotations:
+  - the merciful
+  ayyat:
+  - s001a001
+  - s001a003
+  referent: allah
+arrahim:
+  denotations:
+  - the merciful
+  ayyat:
+  - s001a001
+  - s001a003
+  referent: allah
+alhamd:
+  denotations:
+  - the praise
+  - all praise
+  ayyat:
+  - s001a002
+rabbilalamin:
+  denotations:
+  - lord of the worlds
